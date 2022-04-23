@@ -4,7 +4,8 @@ A tool to parse output from https://github.com/assetnote/kiterunner.
 
 
 ## How to use
-python3 main.py --help                                                                                    1 ⨯
+python3 main.py --help
+
 -f <path_output_file>   spesifiy the file you want filtered
 
 -hm method1,method2,method3...  filters on HTTP methods (GET, POST etc.)
